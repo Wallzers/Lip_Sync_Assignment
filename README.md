@@ -8,7 +8,7 @@ For better visual quality and good syncing for lips
 ############# Primary Programming  Language used here is `Python 3.6` on the `COOLAB NOTEBOOK` ###########
 
 
-##DEMO                                                                                                                                                                                                                                                                                                                                                                               
+## DEMO                                                                                                                                                                                                                                                                                                                                                                               
 Original video file:
 
 (https://github.com/Wallzers/Lip_Sync_Assignment/assets/102044773/b0eb7fe4-2a7a-4981-b207-db63ae433cbf)
