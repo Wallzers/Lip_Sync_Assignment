@@ -12,7 +12,7 @@ For better visual quality and good syncing for lips
 ---> Audio file and video file located in Google drive with path addresses
 
 ## Process
-----> Clone the pretrained model from the above repo                                                                                                                                                                                     
+----> Clone the pretrained model from the above repo and download the requirements using code from ***The Python Notebook in the repo***                                                                                                                                                                                     
 ---->Mount the video file and the audio file(For rezizing and adding resolution to standard 720p)                                                                                                                                                                                    
 ---->These 2 files will be uploaded to sample data after resizing                                                                                                                                                                                    
 ---->Run the code for Crunching and mapping the files for the result                                                                                                                                                                                    
