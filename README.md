@@ -22,4 +22,4 @@ Resultant video will also be preveiwed and can also download the video from give
 
 ## Common mistakes
 --->Video file exeeds 60 sec (***As it consumes time in a normal pc***)                                                                                                                                                                                    
---->Video frames Shouldnt consist any blank visuls are inpresence of the target person  ***Else the code would refuse to run***
+--->Video frames Shouldnt consist any blank visuls are inpresence of the target person  (***Else the code would refuse to run***)
