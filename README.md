@@ -21,5 +21,5 @@ For better visual quality and good syncing for lips
 Resultant video will also be preveiwed and can also download the video from given directory mentioned on the output
 
 ## Common mistakes
---->Video file exeeds 60 sec _As it consumes time in a normal pc_                                                                                                                                                                                    
---->Video frames Shouldnt consist any blank visuls are inpresence of the target person
+--->Video file exeeds 60 sec (***As it consumes time in a normal pc***)                                                                                                                                                                                    
+--->Video frames Shouldnt consist any blank visuls are inpresence of the target person  ***Else the code would refuse to run***
