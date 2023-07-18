@@ -8,7 +8,7 @@ For better visual quality and good syncing for lips
 ############# Primary Programming  Language used here is `Python 3.6` on the `COOLAB NOTEBOOK` ###########
 
 ## Requirements
----> The config and the pretrained model from [Wave2LIP](https://github.com/justinjohn0306/Wav2Lip).
+---> The config and the pretrained model from [Wave2LIP](https://github.com/justinjohn0306/Wav2Lip).                                                                                                                            
 ---> Audio file and video file with path address
 
 ## Process
