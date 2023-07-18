@@ -7,6 +7,22 @@ For better visual quality and good syncing for lips
 
 ############# Primary Programming  Language used here is `Python 3.6` on the `COOLAB NOTEBOOK` ###########
 
+
+#DEMO
+Original video file:
+
+(https://github.com/Wallzers/Lip_Sync_Assignment/assets/102044773/b0eb7fe4-2a7a-4981-b207-db63ae433cbf)
+
+Original audio file:
+(https://openinapp.co/o9vuj)
+
+Resuslt:
+
+https://github.com/Wallzers/Lip_Sync_Assignment/assets/102044773/0d57ee3c-6e0f-45cb-89ae-e08d312f8bd7
+
+
+***********************************************************************************************************
+
 ## Requirements
 ---> The config and the pretrained model from [Wave2LIP](https://github.com/justinjohn0306/Wav2Lip).                                                                                                                            
 ---> Audio file and video file located in Google drive with path addresses
