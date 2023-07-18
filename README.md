@@ -9,7 +9,7 @@ For better visual quality and good syncing for lips
 
 ## Requirements
 ---> The config and the pretrained model from [Wave2LIP](https://github.com/justinjohn0306/Wav2Lip).                                                                                                                            
----> Audio file and video file with path address
+---> Audio file and video file located in Google drive with path addresses
 
 ## Process
 ----> Clone the pretrained model from the above repo                                                                                                                                                                                     
